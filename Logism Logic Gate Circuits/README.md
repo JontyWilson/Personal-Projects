@@ -1,9 +1,9 @@
-##Overview##
+# Overview
 Logism is a program that allows you to simulate building logic gate circuits. 
 
 To view these circuit files, install logism. 
 
-Using this program I built:
+**Using this program I built:**
 - 3-bit Decoder
 - 3-bit Multiplexer
 - 4-bit Adder
