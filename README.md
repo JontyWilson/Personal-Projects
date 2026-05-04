@@ -5,7 +5,7 @@ Each project has a `readme.md` detailing what it was for, and most have screensh
 
 # Notable Projects
 **Assembly and C**
-- `16-bit Real Mode Bootloader and I_O Addressing`
+- [16-bit Real Mode Bootloader and I_O Addressing]("Assembly and C/16-bit Real Mode Bootloader and I_O Addressing")
 - `Assembly C Struct`
 - `x86 Assembly Hex Viewer`
 - `Windows Native API Syscalls`
