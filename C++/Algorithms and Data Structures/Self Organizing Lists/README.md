@@ -11,7 +11,9 @@ Test with char types, then with an inputted text file.
 # Outcome
 
 Char type test:
+
 ![alt text](image.png)
 
 Text file test:
+
 ![alt text](image-1.png)
