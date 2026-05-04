@@ -1,7 +1,7 @@
-**Goal**
+##Goal##
 Implement the device_write function in a Linux kernel module that allows information to be written to the address buffer. 
 
-**Outcome**
+##Outcome##
 As seen below, I wrote data to dmesg using echo and the implemented device_write function. This was then displayed using `sudo dmesg`. 
 
 This function is implemented between lines `64` and `77` in `CSISKernelModule.c`. 

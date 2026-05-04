@@ -1,0 +1,7 @@
+BCS 14
+LDA fa
+TAX 0
+LDY 1
+ADC 0
+STA 7
+JMP 3
