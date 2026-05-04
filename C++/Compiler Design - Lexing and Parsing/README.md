@@ -17,15 +17,19 @@ expressions:
 
 **Expressions**
 - division: `/`
+
 ![alt text](image.png)
 
 - OR: `|`
+
 ![alt text](image-1.png)
 
 - AND: `&`
+
 ![alt text](image-2.png)
 
 - XOR: `^`
+
 ![alt text](image-3.png)
 
 
