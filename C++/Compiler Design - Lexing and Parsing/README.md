@@ -1,4 +1,4 @@
-##Goal##
+# Goal
 Modify the `lexer_demo.cpp` to allow for the parsing of new expressions. 
 
 Create an Intermediate Representation of these expressions in `lexer_demo_with_ir.cpp`.
@@ -13,7 +13,7 @@ expressions:
 - Logic command: `logic`
 
 
-##Outcome##
+# Outcome
 
 **Expressions**
 - division: `/`

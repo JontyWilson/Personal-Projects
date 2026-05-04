@@ -1,4 +1,4 @@
-**Completed Personal Projects (so far) that include:**
+# Completed Personal Projects (so far) that include:
 - CSS Designs (HTML, CSS)
 - Multi-threaded Keylogger with Replay Functionality (Python)
 - Multi-threaded Selenium Web Automation for StarRez (Python)

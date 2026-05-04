@@ -1,7 +1,7 @@
-##Goal##
+# Goal 
 Modify the NTCreateFile.asm to be run on Windows 10 x86 architecture and use syscalls to both create and delete a file. 
 
-##Outcome##
+# Outcome 
 NTCreateFile.asm executed
 ![alt text](image.png)
 

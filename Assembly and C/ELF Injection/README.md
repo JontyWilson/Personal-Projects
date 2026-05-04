@@ -1,4 +1,4 @@
-##Goal##
+# Goal 
 Use NASM to assemble the shell code (which simply makes a Linux syscall for the sys_write system call)
 
 Inject the assembled shell code into the ELF_Deconstruction binary using a elfinject.c program.
@@ -12,7 +12,7 @@ Patch the NOPs in the shell code to jump back to the original “cxa_finalize”
 Export the patched binary from Ghidra and change the permissions on the exported file.
 Run the exported binary.
 
-##Outcome##
+# Outcome
 Patched CXA:
 (JMP to injected location)
 ![alt text](image.png)
