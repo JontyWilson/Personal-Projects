@@ -19,4 +19,6 @@ I crafted a simple GUI using tkinter to allow for these automations to be run by
 # Outcome
 The program successfully automated my supervisor's task. Holding the potential to save her hundreds of hours of manual labor. 
 
-However, due to concerns raised by upper management that the database provider may not want a third party service being used on their software. So the project was put to rest. 
+However, due to concerns raised by upper management that the database provider may not want a third party service being used on their software, the project was put to rest in order to avoid potential conflicts. 
+
+While this was disappointing, this project still allowed me to see real world practical application of an automation that genuinely benefitted my supervisor in a way that would have freed her up to do more of what she does best. 
