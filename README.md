@@ -11,6 +11,7 @@ Sorted by folder.
 - [Assembly C Struct](/Assembly_and_C/Assembly_C_Struct/)
 - [x86 Assembly Hex Viewer](/Assembly_and_C/x86_Assembly_Hex_Viewer/)
 - [Windows Native API Syscalls](/Assembly_and_C/Windows_Native_API_Syscalls/)
+- [Kernel Module](/Assembly_and_C/Kernel_Module)
 
 **C++**
 - [Algorithms and Data Structures - MST, LRU Buffer Pool, Double threaded binary tree, self organizing lists, bag dictionary](/C++/Algorithms_and_Data_Structures/)
